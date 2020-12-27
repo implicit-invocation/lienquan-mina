@@ -1,0 +1,48 @@
+
+ui.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+avatar
+  rotate: false
+  xy: 304, 455
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+gameOver
+  rotate: false
+  xy: 2, 54
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+heart_empty
+  rotate: false
+  xy: 246, 36
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+heart_full
+  rotate: false
+  xy: 304, 437
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+retry_btn
+  rotate: false
+  xy: 2, 21
+  size: 242, 31
+  orig: 242, 31
+  offset: 0, 0
+  index: -1
+score_label
+  rotate: false
+  xy: 2, 2
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
