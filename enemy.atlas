@@ -6,371 +6,399 @@ filter: Nearest,Nearest
 repeat: none
 blue_minion_die
   rotate: false
-  xy: 1148, 1819
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: 1
-blue_minion_die
-  rotate: false
-  xy: 2, 291
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: 3
-blue_minion_die
-  rotate: false
-  xy: 384, 673
+  xy: 1148, 1866
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 2
 blue_minion_die
   rotate: false
-  xy: 184, 291
+  xy: 2, 156
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+blue_minion_die
+  rotate: false
+  xy: 184, 338
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+blue_minion_die
+  rotate: false
+  xy: 384, 538
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 4
 blue_minion_die
   rotate: false
-  xy: 384, 491
+  xy: 566, 720
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 5
 blue_minion_die
   rotate: false
-  xy: 566, 673
+  xy: 766, 1120
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 6
 blue_minion_run
   rotate: false
-  xy: 766, 1437
+  xy: 766, 1484
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 8
 blue_minion_run
   rotate: false
-  xy: 948, 1073
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: 1
-blue_minion_run
-  rotate: false
-  xy: 1512, 1637
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: 2
-blue_minion_run
-  rotate: false
-  xy: 1694, 1819
+  xy: 2, 338
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 3
 blue_minion_run
   rotate: false
-  xy: 1694, 1819
+  xy: 2, 338
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 7
 blue_minion_run
   rotate: false
-  xy: 948, 891
+  xy: 1512, 1684
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+blue_minion_run
+  rotate: false
+  xy: 1694, 1866
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+blue_minion_run
+  rotate: false
+  xy: 948, 938
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 4
 blue_minion_run
   rotate: false
-  xy: 1694, 1637
+  xy: 1694, 1684
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 5
 blue_minion_run
   rotate: false
-  xy: 766, 709
+  xy: 766, 756
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 6
 boss_attack
   rotate: false
-  xy: 2, 1619
+  xy: 2, 1666
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 1
 boss_die
   rotate: false
-  xy: 2, 1619
+  xy: 2, 1666
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 1
 boss_attack
   rotate: false
-  xy: 2, 1237
+  xy: 2, 1284
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 2
 boss_die
   rotate: false
-  xy: 2, 1237
+  xy: 2, 1284
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 2
+boss_die
+  rotate: false
+  xy: 2, 1284
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 4
-boss_die
+boss_attack
   rotate: false
-  xy: 2, 1237
+  xy: 384, 1666
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
-  index: 2
+  index: 4
 boss_attack
   rotate: false
-  xy: 384, 1619
-  size: 380, 380
-  orig: 380, 380
-  offset: 0, 0
-  index: 3
-boss_attack
-  rotate: false
-  xy: 384, 1619
+  xy: 2, 902
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 5
+boss_attack
+  rotate: false
+  xy: 2, 902
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: 3
 boss_die
   rotate: false
-  xy: 384, 1619
+  xy: 2, 902
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 3
 boss_attack
   rotate: false
-  xy: 2, 855
-  size: 380, 380
-  orig: 380, 380
-  offset: 0, 0
-  index: 4
-boss_attack
-  rotate: false
-  xy: 384, 1237
+  xy: 384, 1284
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 6
 boss_attack
   rotate: false
-  xy: 384, 1237
+  xy: 384, 1284
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 9
 boss_attack
   rotate: false
-  xy: 766, 1619
+  xy: 766, 1666
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 7
 boss_attack
   rotate: false
-  xy: 2, 473
+  xy: 2, 520
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 8
 boss_die
   rotate: false
-  xy: 384, 855
+  xy: 384, 902
   size: 380, 380
   orig: 380, 380
   offset: 0, 0
   index: 5
 boss_projectile_A
   rotate: false
-  xy: 894, 537
+  xy: 894, 584
   size: 120, 154
   orig: 120, 154
   offset: 0, 0
   index: 1
 boss_projectile_A
   rotate: false
-  xy: 1016, 537
+  xy: 1016, 584
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: 2
+boss_projectile_A
+  rotate: false
+  xy: 1094, 782
   size: 120, 154
   orig: 120, 154
   offset: 0, 0
   index: 3
-boss_projectile_A
-  rotate: false
-  xy: 1094, 735
-  size: 120, 154
-  orig: 120, 154
-  offset: 0, 0
-  index: 2
 boss_projectile_B
   rotate: false
-  xy: 1876, 1803
-  size: 144, 196
-  orig: 144, 196
-  offset: 0, 0
-  index: 4
-boss_projectile_B
-  rotate: false
-  xy: 1876, 1605
-  size: 144, 196
-  orig: 144, 196
-  offset: 0, 0
-  index: 1
-boss_projectile_B
-  rotate: false
-  xy: 948, 693
-  size: 144, 196
-  orig: 144, 196
-  offset: 0, 0
-  index: 2
-boss_projectile_B
-  rotate: false
-  xy: 948, 693
+  xy: 1876, 1850
   size: 144, 196
   orig: 144, 196
   offset: 0, 0
   index: 5
 boss_projectile_B
   rotate: false
-  xy: 748, 511
+  xy: 1876, 1850
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 2
+boss_projectile_B
+  rotate: false
+  xy: 1876, 1652
   size: 144, 196
   orig: 144, 196
   offset: 0, 0
   index: 3
+boss_projectile_B
+  rotate: false
+  xy: 948, 740
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 1
+boss_projectile_B
+  rotate: false
+  xy: 748, 558
+  size: 144, 196
+  orig: 144, 196
+  offset: 0, 0
+  index: 4
 red_minion_die
   rotate: false
-  xy: 766, 1255
+  xy: 384, 720
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 1
 red_minion_die
   rotate: false
-  xy: 948, 1437
+  xy: 766, 1302
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 2
 red_minion_die
   rotate: false
-  xy: 1148, 1637
+  xy: 948, 1484
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 3
 red_minion_die
   rotate: false
-  xy: 1330, 1819
+  xy: 1148, 1684
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 4
 red_minion_die
   rotate: false
-  xy: 2, 109
+  xy: 1330, 1866
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 6
 red_minion_run
   rotate: false
-  xy: 766, 1073
+  xy: 948, 1302
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 1
 red_minion_run
   rotate: false
-  xy: 948, 1255
+  xy: 1330, 1684
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 2
 red_minion_run
   rotate: false
-  xy: 1330, 1637
+  xy: 1512, 1866
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 3
 red_minion_run
   rotate: false
-  xy: 1330, 1637
+  xy: 1512, 1866
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 7
 red_minion_run
   rotate: false
-  xy: 1512, 1819
+  xy: 184, 156
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 4
 red_minion_run
   rotate: false
-  xy: 184, 109
+  xy: 566, 538
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 5
 red_minion_run
   rotate: false
-  xy: 566, 491
+  xy: 766, 938
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 6
 red_minion_run
   rotate: false
-  xy: 766, 891
+  xy: 948, 1120
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: 8
 rock
   rotate: false
-  xy: 2, 2
-  size: 115, 105
-  orig: 115, 105
+  xy: 2, 48
+  size: 115, 106
+  orig: 115, 106
   offset: 0, 0
   index: -1
+stone
+  rotate: false
+  xy: 2, 23
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: 4
+stone
+  rotate: false
+  xy: 2, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: 3
+stone
+  rotate: false
+  xy: 384, 526
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 1
+stone
+  rotate: false
+  xy: 2022, 2037
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: 2
 tap_icon
   rotate: false
-  xy: 119, 39
+  xy: 119, 86
   size: 83, 68
   orig: 83, 68
   offset: 0, 0
   index: 1
 tap_icon
   rotate: false
-  xy: 204, 39
+  xy: 204, 86
   size: 83, 68
   orig: 83, 68
   offset: 0, 0
   index: 2
 tap_icon
   rotate: false
-  xy: 289, 39
+  xy: 289, 86
   size: 83, 68
   orig: 83, 68
   offset: 0, 0
